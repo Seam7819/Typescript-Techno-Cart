@@ -11,3 +11,11 @@ const user: {
     Institute : "Green University"
 }
 
+const user2 : {
+    firstName : string;
+    middleName? : string;
+    lastName : string
+} = {
+    firstName : "Sultan",
+    lastName : "Siam"
+}
